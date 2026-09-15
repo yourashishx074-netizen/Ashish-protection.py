@@ -1,7 +1,6 @@
-cat <<EOF > requirements.txt
 telethon
 aiohttp
 motor
 dnspython
-EOF
+
 
